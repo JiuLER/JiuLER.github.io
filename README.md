@@ -1,15 +1,24 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
+### 关于我
 
-三叶草国际语已更名为“格罗比言·全球语”，新的项目地址为：
+朋友你好哇，我是许江一墨，目前高二。
 
-* 中文版：https://gitee.com/globien/globien
-* 英文版：https://github.com/globien/globien.github.io
+luogu id 许江一墨.
+
+codefoces id hengyang. ~~太菜了~~
+
+是个弱弱的OIer，双修CTF，很喜欢pwn
+
+也是个炉石控，有一起下棋的小伙伴么$qwq$
+
+想要友链的小伙伴私信我就好
+
+希望能和远道而来的你成为朋友。
+
+---------------
 
 ### 致谢
 
-1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢作者BY。 
-2. BY的模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
-3. 感谢 Jekyll、Github Pages 和 Bootstrap!
+1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢原作者。 
 
 ### License
 
