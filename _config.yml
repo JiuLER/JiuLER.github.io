@@ -1,7 +1,7 @@
 # Site settings
 title: 许江一墨の个人网站
 SEOTitle: 孤勇之后，世界尽在眼前。
-header-img: img/头像.jpg
+header-img: img/post-bg-desk.jpg
 email: xzy1476569428@163.com
 description: "Just be patient."
 keyword: "耐心一点。"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/JiuLER/JiuLER.github.io" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "您强归您强，我绝不示弱。"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/头像.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
