@@ -1,10 +1,10 @@
 # Site settings
-title: 许江一墨 の 个人网站
+title: 许江一墨の个人网站
 SEOTitle: 孤勇之后，世界尽在眼前。
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
 description: "Just be patient."
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "Just be patient."
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: JiuLER.github.io    #仓库名称
+  owner: JiuLER    #github用户名
+  admin: JiuLER
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -101,8 +101,5 @@ friends: [
     {
         title: "格罗比言·全球语",
         href: "https://globien.gitee.io"
-    },{
-        title: "格罗比言互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
     }
 ]
