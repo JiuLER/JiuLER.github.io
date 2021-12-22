@@ -97,17 +97,17 @@ service-worker: true
 
 
 # 友情链接，请尽量不要删除，谢谢！
-# friends: [
-#     {
-#         title: "格罗比言·全球语",
-#         href: "https://globien.gitee.io"
-#     },
-#     {
-#         title: "sosusosu",
-#         href: "https://sosusosu.icu"     
-#     }, 
-#     {
-#         title: "BlackBird's Blog",
-#         href: "http://1.117.139.210/"
-#     }
-# ]
+friends: [
+    {
+        title: "格罗比言·全球语",
+        href: "https://globien.gitee.io"
+    },
+    {
+        title: "sosusosu",
+        href: "https://sosusosu.icu"     
+    }, 
+    {
+        title: "BlackBird's Blog",
+        href: "http://1.117.139.210/"
+    }
+]
