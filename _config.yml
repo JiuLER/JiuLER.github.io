@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-Hj.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     maple
+zhihu_username:     maple-49-91
 github_username:    JiuLER
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
@@ -97,17 +97,17 @@ service-worker: true
 
 
 # 友情链接，请尽量不要删除，谢谢！
-friends: [
-    {
-        title: "格罗比言·全球语",
-        href: "https://globien.gitee.io"
-    },
-    {
-        title: "sosusosu",
-        href: "https://sosusosu.icu"     
-    }, 
-    {
-        title: "BlackBird's Blog",
-        href: "http://1.117.139.210/"
-    }
-]
+# friends: [
+#     {
+#         title: "格罗比言·全球语",
+#         href: "https://globien.gitee.io"
+#     },
+#     {
+#         title: "sosusosu",
+#         href: "https://sosusosu.icu"     
+#     }, 
+#     {
+#         title: "BlackBird's Blog",
+#         href: "http://1.117.139.210/"
+#     }
+# ]
