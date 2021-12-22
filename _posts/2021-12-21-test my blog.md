@@ -1,13 +1,17 @@
 ---
-layout:     post
-title:      test my blog
-subtitle:   测试用
-date:       2021-12-21
-author:     许江一墨
-header-img: img/the-first.png
-catalog:   true
-tags:
-    - 杂谈
+​---
+layout: post  
+title: 这里是小花（作为标题）  
+description:  一句话描述一下。
+headline:     
+categories: Blog（作为目录）  
+headline:  
+tags: 
+  - 杂谈  
+  -  
+comments: ture  
+published: true  
+​---
 ---
 # 一级标题
 ## 二级标题
