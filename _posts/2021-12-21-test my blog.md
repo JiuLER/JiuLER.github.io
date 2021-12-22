@@ -1,5 +1,4 @@
 ---
-​---
 layout: post  
 title: Just a test.  
 description: 一句话描述一下。
@@ -8,11 +7,8 @@ categories: Blog（作为目录）
 headline:  
 tags: 
   - 杂谈  
-  -  
 comments: ture  
 published: true  
-​---
-
 ---
 
 # 一级标题
