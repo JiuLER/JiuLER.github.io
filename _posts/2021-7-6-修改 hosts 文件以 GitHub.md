@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      修改 hosts 文件以破壁
-subtitle:   测试用
+subtitle:   Github
 date:       2021-7-6
 author:     许江一墨
 header-img: img/the-first.png
