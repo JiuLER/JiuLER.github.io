@@ -41,9 +41,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: Kramdown                            # use Github Flavored Markdown !important
-  syntax_highlighter: coderay
-
+  input: GEF                            # use Github Flavored Markdown !important
 
 
 # 评论系统
